@@ -1,4 +1,6 @@
 # Tool development AutoBeauty
+=============================
+
 
 ## Brief
 This project aims to enhance the quality of life for VFX artists in their daily tasks.
