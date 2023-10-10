@@ -1,9 +1,5 @@
 # Tool development AutoBeauty
 
-##### Developer: Emmanuel Moulun
-##### Studio: Budos
-##### Demo: https://vimeo.com/858283846
-
 ## Brief
 This project aims to enhance the quality of life for VFX artists in their daily tasks.
 One of the common tasks that a VFX compositor/Lighter must perform is **reconstructing a "beauty" pass**
@@ -16,6 +12,10 @@ For example, typically rendered layers include *diffuse, specular, shadows, dept
 These passes can vary from one rendering engine to another, but the overarching concept remains consistent: separate all components of light and its behavior.
 
 Since the pipeline I was working on used the Blender and RedShift rendering engines, I incorporated their rendering patterns into this tool.
+
+##### Developer: Emmanuel Moulun
+##### Studio: Budos
+##### Demo: https://vimeo.com/858283846
 
 ##### Blender Cycle passes:
 1. Diffuse direct
