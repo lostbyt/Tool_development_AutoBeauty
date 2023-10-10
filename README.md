@@ -21,7 +21,7 @@ Since the pipeline I was working on used the Blender and RedShift rendering engi
 **Studio:** Budos
 **Demo:** https://vimeo.com/858283846
 
-
+![Image](https://github.com/lostbyt/Tool_development_AutoBeauty/blob/main/mindMap.jpg)
 
 
 ##### Blender Cycle passes:
