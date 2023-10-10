@@ -15,9 +15,9 @@ These passes can vary from one rendering engine to another, but the overarching 
 
 Since the pipeline I was working on used the Blender and RedShift rendering engines, I incorporated their rendering patterns into this tool.
 
-###### Developer: Emmanuel Moulun
-###### Studio: Budos
-###### Demo: https://vimeo.com/858283846
+**Developer:** Emmanuel Moulun
+**Studio:** Budos
+**Demo:** https://vimeo.com/858283846
 
 
 
