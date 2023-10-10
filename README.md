@@ -1,8 +1,8 @@
 # Tool development AutoBeauty
 
-**Developer**: Emmanuel Moulun
-**Studio**: Budos
-**Demo**: https://vimeo.com/858283846
+##### Developer: Emmanuel Moulun
+##### Studio: Budos
+##### Demo: https://vimeo.com/858283846
 
 ## Brief
 This project aims to enhance the quality of life for VFX artists in their daily tasks.
