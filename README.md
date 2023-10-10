@@ -1,5 +1,5 @@
 # Tool development AutoBeauty
-=============================
+
 
 
 ## Brief
@@ -23,24 +23,24 @@ Since the pipeline I was working on used the Blender and RedShift rendering engi
 
 
 #### Blender Cycle passes:
-1. Diffuse direct
-2. Diffuse indirect
-3. Diffuse color
-4. Emit
-5. Glossy direct
-6. Glossy indirect
-7. Glossy color
-8. Transmission direct
-9. Transmission indirect
-10. Transmission color
-11. Beauty
+* Diffuse direct
+* Diffuse indirect
+* Diffuse color
+* Emit
+* Glossy direct
+* Glossy indirect
+* Glossy color
+* Transmission direct
+* Transmission indirect
+* Transmission color
+* Beauty
 
 #### RedShift passes:
-1. Diffuse lighting
-2. Global illumination
-3. Specular
-4. Reflections
-5. Beauty
+* Diffuse lighting
+*  Global illumination
+* Specular
+* Reflections
+* Beauty
 
 ## Final product
 The tool streamlines the entire process for artists. 
