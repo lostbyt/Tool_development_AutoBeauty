@@ -49,3 +49,5 @@ The tool streamlines the entire process for artists.
 They can effortlessly import their passes, choose the rendering engine used to generate these passes, 
 and then access a range of grading and denoising tools for precise adjustments following the automated reconstruction.
 
+![Image](https://github.com/lostbyt/Tool_development_AutoBeauty/blob/main/autoBeauty_denoise.jpg)
+
