@@ -1,14 +1,15 @@
 # Tool development AutoBeauty
 
+**Developer:** Emmanuel Moulun<br>
+**Studio:** Budos<br>
+**Demo:** https://vimeo.com/858283846
+
 ![Image](https://github.com/lostbyt/Tool_development_AutoBeauty/blob/main/capture01.PNG)
 
-
-
-### Brief
+### Description:
 This project aims to enhance the quality of life for VFX artists in their daily tasks.
 One of the common tasks that a VFX compositor/Lighter must perform is **reconstructing a "beauty" pass**
 from the various layers generated during CG rendering.
-
 
 The goal is to achieve complete control over the render's appearance by being able to independently adjust each layer.
 
@@ -17,9 +18,14 @@ These passes can vary from one rendering engine to another, but the overarching 
 
 Since the pipeline I was working on used the Blender and RedShift rendering engines, I incorporated their rendering patterns into this tool.
 
-**Developer:** Emmanuel Moulun<br>
-**Studio:** Budos<br>
-**Demo:** https://vimeo.com/858283846
+### Features:
+1. automate the reconstruction of the beauty pass
+2. Compatible with Blender Cycle
+3. Compatible with RedSchift
+4. Grade tool incorporated
+5. Denoise/Sharpen tool incorporated
+6. Quality check control incorporated
+7. Export (Alpha, RGB and RGBA) incorporated
 
 ![Image](https://github.com/lostbyt/Tool_development_AutoBeauty/blob/main/mindMap.jpg)
 
@@ -43,6 +49,13 @@ Since the pipeline I was working on used the Blender and RedShift rendering engi
 * Specular
 * Reflections
 * Beauty
+
+### Technologies:
+Python V3
+Nuke Python API
+
+### License:
+GNU GPLv3
 
 ### Final product
 The tool streamlines the entire process for artists. 
