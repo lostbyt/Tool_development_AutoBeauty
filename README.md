@@ -4,7 +4,7 @@
 **Studio:** Budos<br>
 **Demo:** https://vimeo.com/858283846
 
-![Image](https://github.com/lostbyt/Tool_development_AutoBeauty/blob/main/capture01.PNG)
+![Image](https://github.com/lostbyt/Tool_development_AutoBeauty/blob/main/images/capture01.PNG)
 
 ### Description:
 This project aims to enhance the quality of life for VFX artists in their daily tasks.
@@ -27,7 +27,7 @@ Since the pipeline I was working on used the Blender and RedShift rendering engi
 6. Quality check control incorporated
 7. Export (Alpha, RGB and RGBA) incorporated
 
-![Image](https://github.com/lostbyt/Tool_development_AutoBeauty/blob/main/mindMap.jpg)
+![Image](https://github.com/lostbyt/Tool_development_AutoBeauty/blob/main/images/mindMap.jpg)
 
 
 ##### Blender Cycle passes:
@@ -61,5 +61,5 @@ The tool streamlines the entire process for artists.
 They can effortlessly import their passes, choose the rendering engine used to generate these passes, 
 and then access a range of grading and denoising tools for precise adjustments following the automated reconstruction.
 
-![Image](https://github.com/lostbyt/Tool_development_AutoBeauty/blob/main/autoBeauty_denoise.jpg)
+![Image](https://github.com/lostbyt/Tool_development_AutoBeauty/blob/main/images/autoBeauty_denoise.jpg)
 
