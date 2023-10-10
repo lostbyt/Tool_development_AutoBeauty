@@ -2,7 +2,7 @@
 
 
 
-## Brief
+### Brief
 This project aims to enhance the quality of life for VFX artists in their daily tasks.
 One of the common tasks that a VFX compositor/Lighter must perform is **reconstructing a "beauty" pass**
 from the various layers generated during CG rendering.
@@ -15,14 +15,14 @@ These passes can vary from one rendering engine to another, but the overarching 
 
 Since the pipeline I was working on used the Blender and RedShift rendering engines, I incorporated their rendering patterns into this tool.
 
-##### Developer: Emmanuel Moulun
-##### Studio: Budos
-##### Demo: https://vimeo.com/858283846
+###### Developer: Emmanuel Moulun
+###### Studio: Budos
+###### Demo: https://vimeo.com/858283846
 
 
 
 
-#### Blender Cycle passes:
+##### Blender Cycle passes:
 * Diffuse direct
 * Diffuse indirect
 * Diffuse color
@@ -35,14 +35,14 @@ Since the pipeline I was working on used the Blender and RedShift rendering engi
 * Transmission color
 * Beauty
 
-#### RedShift passes:
+##### RedShift passes:
 * Diffuse lighting
 *  Global illumination
 * Specular
 * Reflections
 * Beauty
 
-## Final product
+### Final product
 The tool streamlines the entire process for artists. 
 They can effortlessly import their passes, choose the rendering engine used to generate these passes, 
 and then access a range of grading and denoising tools for precise adjustments following the automated reconstruction.
