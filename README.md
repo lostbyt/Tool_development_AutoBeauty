@@ -51,8 +51,7 @@ Since the pipeline I was working on used the Blender and RedShift rendering engi
 * Beauty
 
 ### Technologies:
-Python V3
-Nuke Python API
+Python V3 with Nuke Python API
 
 ### License:
 GNU GPLv3
