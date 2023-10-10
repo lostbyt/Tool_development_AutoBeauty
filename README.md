@@ -17,7 +17,10 @@ Since the pipeline I was working on used the Blender and RedShift rendering engi
 ##### Studio: Budos
 ##### Demo: https://vimeo.com/858283846
 
-##### Blender Cycle passes:
+
+
+
+#### Blender Cycle passes:
 1. Diffuse direct
 2. Diffuse indirect
 3. Diffuse color
@@ -30,7 +33,7 @@ Since the pipeline I was working on used the Blender and RedShift rendering engi
 10. Transmission color
 11. Beauty
 
-##### RedShift passes:
+#### RedShift passes:
 1. Diffuse lighting
 2. Global illumination
 3. Specular
